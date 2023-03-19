@@ -1,1 +1,15 @@
 codigo numero 1
+
+1. Criando branch e alterando entre elas.
+
+  git branch -> * master
+	git branch staging + enter
+		git checkout (nome da branch), nessa caso staging
+			git branch -> master
+					* staging 
+
+2.Salvando alteração na nova branch
+
+	 git add .
+		git commit -m "adicionando novos comandos"
+			git push
