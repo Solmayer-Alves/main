@@ -3,4 +3,6 @@ Tutorial github
 
 
 
-commit antes do clone
+Teste
+
+Commit para teste usando comando git fetch
